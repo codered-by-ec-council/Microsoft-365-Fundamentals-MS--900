@@ -1,0 +1,91 @@
+Answers
+
+Dropdown
+What type of cloud service do you recommend? (Choose one)
+ IaaS
+ PaaS
+■■ SaaS
+Explanation
+SaaS. The company can subscribe to Microsoft 365 to give every employee access to the latest version of
+Office productivity tools—including Microsoft Teams, and Skype for Business. These tools, along with
+Microsoft SharePoint Online, will significantly improve how the remote offices collaborate with each other.
+Office and Windows management will be streamlined by upgrading everyone to the latest versions, and
+then utilizing Microsoft 365’s management tools to manage all devices—including mobile devices.
+
+Dropdown
+What type of cloud do you recommend? (Choose one)
+■■ Public
+ Private
+ Hybrid
+Explanation
+Public cloud. Pricing is paramount, so the Operating Expenditures (OpEx)–oriented public cloud is optimal
+for this company.
+
+Dropdown
+What type of migration model do you recommend? (Choose one)
+■■ Cloud-only
+ Co-existence
+Explanation
+Cloud-only migration model. Because the current mail is a free, web-based service that they’ll gladly
+move off in in favor of Microsoft Exchange Online, there is no need for coexistence with it. Similarly, moving
+their files from their outdated SharePoint Server 2007 to the cloud will enable them to decommission their
+old machines.
+
+Dropdown
+What type of cloud service do you recommend? (Choose one)
+ IaaS
+■■ PaaS
+ SaaS
+Explanation
+PaaS. Because PaaS supports building, testing, and deploying software applications that will connect to
+their legacy line-of-business systems, this would be the best choice. Different apps can be purpose-built for
+the various roles (such as sales, suppliers, and fulfilment), with each app providing the appropriate access
+into the line-of-business systems, securely, and from any mobile device.
+
+Dropdown
+What type of cloud do you recommend? (Choose one)
+ Public
+ Private
+■■ Hybrid
+Explanation
+Hybrid cloud. This type of cloud is preferred for Contoso, as it enables the new web apps in the cloud to
+connect to their on-premises line-of-business systems.
+
+Dropdown
+What type of migration model do you recommend? (Choose one)
+ Cloud-only
+■■ Co-existence
+Explanation
+Coexistence migration model. Although coexistence is more complicated to establish, this type of model
+is critical for Contoso because it maintains their investment in their existing line-of-business systems, and
+uses their new cloud environment as an extension to their on-premises infrastructure.
+
+Dropdown
+What type of cloud service do you recommend? (Choose one)
+■■ IaaS
+ PaaS
+ SaaS
+Explanation
+IaaS. This model is perfect for First Up Consultants, because it allows them to host all the VMs that they
+need to test with. IaaS gives them control over the hardware that runs their applications, so they can utilize
+them only when they’re needed. When they don’t need to run the VMs, they can place them in cheaper
+cloud-based storage to reduce compute fees.
+
+Dropdown
+What type of cloud do you recommend? (Choose one)
+■■ Public
+ Private
+ Hybrid
+Explanation
+Public cloud. Because First Up Consultants wants to significantly reduce their hardware costs and minimize
+the amount of time their administrators spend configuring new hardware, a public cloud gives them a
+platform for their VMs while relieving them of the associated hardware and administrative costs.
+
+Dropdown
+What type of migration model do you recommend? (Choose one)
+■■ Cloud-only
+ Co-existence
+Explanation
+Cloud-only migration model. First Up Consultants could migrate any existing on-premises VMs and
+other systems to the cloud, then deprecate those machines to free up space and reduce their operational
+costs.

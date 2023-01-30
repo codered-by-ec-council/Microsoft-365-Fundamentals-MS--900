@@ -1,0 +1,116 @@
+Lab - Cloud Fundamentals
+Lab Introduction
+This lab is comprised of a set of scenarios. Using the knowledge you’ve gained in Module 1, review each
+scenario to identify the customer’s requirements, and select which combination of cloud services Infrastructure
+as a Service (IaaS), Platform as a Service (PaaS), or Software as a Service (SaaS), type of cloud
+(public, private, or hybrid), and migration (cloud-only or coexistence) best fits their needs.
+
+*****************************************************************************************************************************************************************************************************************************************
+
+Scenario 1
+Company profile: Northwind Traders
+Northwind Traders is a three-generation, family-owned import/export company.
+
+Challenge
+The company’s growth over the past several years and their employee demands for better collaboration
+tools to connect remote offices around the Pacific Rim are outpacing the company’s small IT team.
+The IT lead is spending all her time trying to keep their outdated business systems running. She wants to
+be able to upgrade the company’s old Microsoft SharePoint Server 2007, which has run out of space.
+However, the IT budget is tight, and there would need to be a large up-front investment in new servers,
+server licenses, storage, and more. Employee machines are running a mix of Windows 7, 8, and 10 operating
+systems, and old versions of Microsoft Office—all with no centralized management of updates.
+Furthermore, the proliferation of mobile devices that are frequently connecting to the company’s network
+is making her concerned about the potential of an unhealthy device infecting their corporate systems.
+Moreover, they’ve been using a free web-based email system that isn’t delivering the business-class
+services they need. They want to move completely away from this insecure mail and adopt a business-
+class mail system without having to pay huge up-front licensing and hardware costs.
+
+What’s your recommendation?
+How can Microsoft 365 address this company’s needs?
+
+What type of cloud service do you recommend? (Choose one)
+ IaaS
+ PaaS
+ SaaS
+
+What type of cloud do you recommend? (Choose one)
+ Public
+ Private
+ Hybrid
+
+What type of migration model do you recommend? (Choose one)
+ Cloud-only
+ Co-existence
+
+*******************************************************************************************************************************************************************************************************************************************
+
+Scenario 2
+Company profile: Contoso, Ltd.
+Contoso is a large manufacturing corporation with almost 60,000 employees throughout North America.
+
+Challenge
+Like many large enterprises, Contoso has developed customized on-premises-based line-of-business
+apps for many critical processes. These apps help them with their manufacturing processes, both upstream
+from materials suppliers, and downstream to order processing and customer billing.
+Many of these systems are old and inflexible, and the IT organization within Contoso is looking for a way
+to use the cloud to extend these apps’ capabilities, empowering remote workers, suppliers, and customers
+to more easily identify requirements, confirm production, and fill orders.
+
+What’s your recommendation?
+How can Microsoft 365 address this company’s needs?
+
+What type of cloud service do you recommend? (Choose one)
+ IaaS
+ PaaS
+ SaaS
+
+What type of cloud do you recommend? (Choose one)
+ Public
+ Private
+ Hybrid
+
+What type of migration model do you recommend? (Choose one)
+ Cloud-only
+ Co-existence
+
+**********************************************************************************************************************************************************************************************************************************************
+
+Scenario 3
+Company profile: First Up Consultants
+First Up Consultants is a medium-sized consulting firm that builds customized applications for medical
+businesses.
+
+Challenge
+First Up Consultants wants to be able to rapidly spin up virtual machines (VMs) to test new versions of
+their software products. This historically has resulted in major CapEx costs associated with new high-end
+servers and storage hardware, along with a significant amount of administrative overhead to plan for and
+implement all the hardware updates in the company’s datacenter.
+The biggest problem has always been one of accurate forecasting, because they either purchase too
+much capacity that goes unused—wasting CapEx resources, or they run out of capacity too soon. They
+want to significantly reduce their CapEx, in addition to reducing the administrative overhead associated
+with each new wave of hardware. The solution First Up Consultants selects must support any type of
+environment customization to suit their development needs—and enable them to reduce charges
+whenever a system isn’t needed.
+
+What’s your recommendation?
+How can Microsoft 365 address this company’s needs? What type of cloud service (IaaS, PaaS, or SaaS),
+cloud (public, private, or hybrid), and migration (cloud-only or coexistence) would you recommend, and
+why?
+
+What type of cloud service do you recommend? (Choose one)
+ IaaS
+ PaaS
+ SaaS
+
+What type of cloud do you recommend? (Choose one)
+ Public
+ Private
+ Hybrid
+
+What type of migration model do you recommend? (Choose one)
+ Cloud-only
+ Co-existence
+
+***********************************************************************************************************************************************************************************************************************************************
+
+

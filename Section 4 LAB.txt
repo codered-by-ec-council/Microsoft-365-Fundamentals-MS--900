@@ -1,0 +1,134 @@
+Lab - Managing subscriptions, licensing, and support in Microsoft 365
+
+Lab Introduction
+
+This lab is designed to reinforce the concepts you were introduced to and the knowledge you've gained
+in this module. In this lab, you will use your trial Microsoft 365 account to gain hands-on experience
+managing your Microsoft 365 subscription, licensing, and billing settings.
+Please note that this lab has three exercises, each with multiple tasks. For a successful outcome, the
+exercises and their corresponding tasks must be completed in order.
+
+***********************************************************************************************************************************************************************************************************************************
+Exercise 1
+Exploring interfaces for billing and subscriptions
+
+Task 1: Explore the billing environment
+1. Open Microsoft Edge and navigate to http://www.office.com.
+2. Sign in using the global admin account you have been assigned for this course.
+3. Select the Admin tile.
+4. In Microsoft 365 admin center, in the navigation pane, expand Billing, and then select Purchase
+services. This is where you can add more Microsoft services to your account. Scroll through the list of
+available services you can subscribe to in addition to Microsoft 365.
+5. In Billing, select Subscriptions. This is where you manage your subscriptions.
+●● If it’s not already selected, select the Microsoft 365 E5 Trial subscription, and then review its details,
+including available and assigned licenses, cost, and the trial’s expiration date.
+●● In the lower-right section of the main pane, click More actions.
+This is where you can add a partner of record to your account, cancel the trial, or install software that’s
+associated with your subscription. Spend a few minutes to explore each of these areas, but do not make
+any changes.
+1. In Billing, select Bills. This is where you can review your subscription’s billing statements.
+●● This is the menu where you can select a certain billing period, but because this is a new trial you won’t
+have any billing statements available to review.
+●● At the top of the main window, select Billing FAQ. Scan through this FAQ to learn more about billing,
+including regional phone numbers to call for billing support, and updating payment information.
+When you’ve finished, return to Microsoft 365 admin center.
+1. In Billing, select Payment methods. This is where you can specify how to pay for your services.
+2. Select Select a payment method to review the type (or types) of payment methods that are available
+in your region.
+3. In Billing, select Licenses. This is where you manage your subscription licenses.
+●●Note that for each type of subscription you’ll see the total number of licenses (both valid and expired),
+in addition to the number of licenses that are assigned to users.
+●● Don’t do anything with your licenses yet; we’ll step through managing licenses in the next exercise.
+1. In Billing, select Billing notifications. This is where you can determine who receives automated
+emails about Microsoft services billing.
+
+********************************************************************************************************************************************************************************************************************************
+Exercise 2
+Managing licenses
+
+Task 1: Provision a new subscription and licenses for your
+tenant
+1. In the Microsoft 365 admin center, in the navigation pane, expand Billing, and then select Purchase
+services.
+2. Scroll through the list of available services, and then select one that offers a free trial.
+3. After signing up for the trial, in the Microsoft 365 admin center, in the navigation pane, expand
+Billing, and then select Subscriptions to view the details of your new trial subscription and associated
+licenses.
+
+Task 2: Assign a user license
+1. In the Microsoft 365 admin center, in the navigation pane, expand Billing, and then select Licenses.
+Make a note of how many licenses have been assigned.
+2. In the Microsoft 365 E5 row, under the Status column, select Assign now.
+3. In the user list that appears, select a user that is currently Unlicensed, and then in the User configuration
+window that appears, next to Product licenses, select Edit.
+4. In the Product licenses window, from the Location menu, select United States. Set the Microsoft
+365 E5 license toggle to On, and then select Save to save your changes.
+5. Select Close to confirm the changes, and then select Close to close the User configuration window.
+6. In the Microsoft 365 admin center, in the navigation pane, expand Billing, and then select Licenses.
+7. Confirm that an additional license has been assigned.
+
+Task 3: Remove a user license
+1. In the Microsoft 365 admin center, in the navigation pane, expand Users, and then under Status,
+select a user account that lists Microsoft 365 E5.
+2. In the User configuration window that appears, next to Product licenses, select Edit.
+3. In the Product licenses window, set the Microsoft 365 E5 license toggle to Off, and then select Save.
+4. Select Close to confirm the changes, and then select Close to close the User configuration window.
+5. In the Microsoft 365 admin center, in the navigation pane, expand Billing, and then select Licenses.
+6. Confirm that an additional license has been freed up and can be re-assigned.
+
+Task 4: Remove a subscription from your tenant
+1. In the Microsoft 365 admin center, in the navigation pane, expand Billing, and then select Subscriptions.
+2. In the Subscriptions window, select the new trial subscription you added in Task 1.
+3. In the lower-right corner of the window, select the More actions menu, and then select Cancel
+subscription.
+4. On the Cancel subscription page that appears, confirm you are canceling the appropriate trial. Fill
+out the form’s details, and then select Cancel subscription.
+
+*************************************************************************************************************************************************************************************************************************************
+
+Exercise 3
+Reviewing support options
+
+Task 1: Use the O365 Assistant bot
+1. In the Microsoft 365 admin center, in the navigation pane, expand Support, and then select New
+service request.
+2. In the Need help pane that opens, ensure that the Try O365 Assistant is switched on.
+3. In the Type Message field, enter a question concerning your Microsoft 365 subscription, such as, My
+OneDrive for Business isn’t synchronizing.
+4. Review the O365 Assistant’s responses:
+●● Select a topic to review.
+●● Step through the O365 Assistant’s questions.
+●● Review the links to related support articles.
+
+Task 2: Search Microsoft 365 support articles
+1. In the Microsoft 365 admin center, in the navigation pane, expand Support, and then select New
+service request.
+2. In the Need help pane that opens, ensure that the Try O365 Assistant is switched off.
+3. In the text box, enter a question concerning your Microsoft 365 subscription, such as, “My OneDrive
+for Business isn’t synchronizing,” then select Get help.
+4. Under View solutions, review the links to related support articles.
+
+Task 3: Check for recent support tickets
+1. In the Microsoft 365 admin center, in the navigation pane, expand Support, and then select View service
+requests.
+2. In the Support tickets pane that opens, the list of your support tickets appears—which should be
+none, as this is a new trial account.
+
+Task 4: Begin to create a service request
+1. In the Microsoft 365 admin center, in the navigation pane, expand Support, and then select New
+service request.
+2. In the Need help? pane that opens, ensure that the Try O365 Assistant is switched off.
+3. In the text box, enter a question concerning your Microsoft 365 subscription, such as, My OneDrive for
+Business isn’t synchronizing, then select Get help.
+4. Review how to create a new phone request:
+●● Under New service request by phone, review how you would enter your contact information and
+attach any optional materials to help explain your support request. Do not enter any information or
+select Call me, as this would create an actual service request.
+1. Close New service request by phone when you’ve finished reviewing it.
+2. Review how to create a new email service request:
+●● Under New service request by email, review how you would enter your email address (or addresses)
+and attach any optional materials to help explain your support request. Do not enter any information
+or select Send, as this would create an actual service request.
+1. Close New service request by email when you’ve finished reviewing it.
+
+****************************************************************************************************************************************************************************************************************************************

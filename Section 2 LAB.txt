@@ -1,0 +1,112 @@
+Lab - Configuring Microsoft 365 tenant
+
+Lab Introduction
+This lab is designed to reinforce the concepts to which you were introduced and the knowledge you have
+gained in this module. In this lab, you will use various administrative portals to manage your Microsoft
+365 tenant. You will also create both user and group accounts, and assign licenses to users.
+Please note that this lab has two exercises, each with multiple tasks. For a successful outcome, the
+exercises and their corresponding tasks must be completed in order.
+*******************************************************************************************************************************************************************************************************
+Exercise 1
+Exploring the Microsoft 365 tenant
+Task 1: Sign in to the tenant
+1. Open Microsoft Edge.
+2. Navigate to www.office.com
+3. Sign in with the global admin account you have been provided with.
+4. Click the Admin tile.
+
+Task 2: Explore the Microsoft 365 admin center
+1. In the Microsoft 365 admin center, in the navigation pane, select Show more.
+2. Expand Users, and then select Active users. View the available accounts.
+3. Select the top user in the list by clicking their name. A blade opens that displays more details for the
+account. Close the blade by clicking X in the upper right corner of the blade.
+4. Expand Groups, and then select Groups. There are a number of groups already configured in the
+tenant.
+5. Select the one at the top by clicking its name. Details for the group are displayed. Close the blade by
+clicking X in the upper right corner of the blade.
+6. Expand Billing, and then select Subscriptions. At least one subscription is displayed.
+
+Task 3: Explore the Azure Active Directory admin center
+1. Expand Admin centers, and then select Azure Active Directory. Notice that a new tab opens in
+Microsoft Edge.
+2. In the Azure Active Directory admin center, on the Dashboard, select Azure Active Directory from
+the navigation pane.
+3. Click Users. Notice the same user accounts are displayed.
+4. Close the Users – All users blade and then click Groups. You can see the same groups.
+5. Close the Groups – All groups blade.
+6. Click Company branding.
+7. In the details pane, click Default. Notice the images configured for branding.
+8. Close the Edit company branding blade.
+
+Task 4: Explore the Intune classic portal
+1. Open Microsoft Internet Explorer and navigate to portal.azure.com. (You need Internet Explorer to
+view the Intune classic portal.) Sign in using the global admin account assigned to the tenant.
+2. In the search box, type Intune, and then click Intune.
+3. In the details pane, click Classic portal. A new tab opens.
+4. In the Classic portal, click GROUPS.
+5. Click Groups. Notice the text that informs you that groups are managed in the Azure Active Directory
+portal. This is because many administrative tasks are now performed using the new portal.
+6. Click POLICY, then click Configuration policy. Notice that no policies display.
+7. Click ADMIN, and then explore the available options.
+8. Close Internet Explorer.
+
+Task 5: Explore the Intune portal
+1. Switch to Microsoft Edge and select the tab that contains the Microsoft 365 admin center.
+2. From Admin centers, click Intune. A new tab opens.
+3. If prompted, select your global admin account.
+4. In the navigation pane, click Device enrollment, and then click Windows enrollment. You can
+configure settings such as Windows Autopilot devices and profiles here to manage Windows 10
+enrollment.
+5. In the navigation pane, click Software updates, and then click Windows 10 Update Rings. You can
+configure how to apply feature and quality updates to your Windows 10 computers from here.
+6. In the navigation pane, click Device configuration and then click Profiles. You can create and
+configure profiles that will configure your devices from here.
+7. In the navigation pane, click Roles and then click All roles. You can define administrative privileges
+here.
+8. In the navigation pane, click Dashboard.
+
+*********************************************************************************************************************************************************************************************************************************
+Exercise 2
+Configuring new user and group accounts
+
+Task 1: Add a user
+1. Switch to the Azure Active Directory admin center, and in the navigation pane, select Azure Active
+Directory, and then select Users.
+2. In the Users - All users blade, select + New user.
+3. In the User blade, enter the following information:
+●● Name: Enter your name
+●● Username: Your_first_name@yourtenant.onmicrosoft.com
+1. Select Profile, enter the following information, and then select Ok:
+●● First name: Your first name
+●● Last name: Your last name
+●● Department: IT
+1. Select Groups.
+2. Scroll down and select IT.
+3. Click Select.
+4. Select the Show Password check box, and note the password for later use.
+5. Select Create.
+
+Task 2: Create a group
+1. In the navigation pane, click Azure Active Directory, and then click Groups.
+2. Click New group.
+3. In the Group blade, in the Group type list, select Security.
+4. In the Group name box, type Windows 10 Deployment.
+5. In the Group description box, type Windows 10 Deployment Team.
+6. In the Membership type list, notice that you can choose Assigned, Dynamic User, and Dynamic
+Device. Select Assigned.
+7. Click Members.
+8. On the Members blade, scroll down and select your account and then also select both Emily Braun
+and Adele Vance.
+9. Click Select.
+10. On the Group blade, select Create.
+11. Navigate to All groups, scroll down and verify that the IT group now displays.
+
+Task 3: Assign licenses
+1. In Microsoft Edge, switch to the Microsoft 365 admin center tab, and then click Billing.
+2. Click Subscriptions, and then click the Assign to users shortcut.
+3. Select your own account and then, next to Product licenses, click Edit.
+4. In the Location list, select your current location.
+5. Enable an Office 365 Enterprise E5 license for your account and then click Save.
+6. Click Close twice.
+7. Close all open windows.
+************************************************************************************************************************************************************************************************************************************
